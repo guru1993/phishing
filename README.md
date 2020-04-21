@@ -11,8 +11,7 @@ $ apt install wget
 
 $ apt install openssh
 
-$ git clone https://github.com/kinghacker0/WishFish
-
+https://github.com/guru1993/phishing.git
 <h3>Usage</h3>
 
 $ cd wishfish
@@ -29,4 +28,4 @@ $ bash wishfish.sh
 This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
 
 
-                                              Inspired By github.com/thelinuxchoice
+                                              https://github.com/guru1993/phishing.git
