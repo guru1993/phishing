@@ -1,6 +1,6 @@
 #!/bin/bash
-# Inspired by: github.com/thelinuxchoice/saycheese
-# Modified by: github.com/kinghacker0/WishPhish
+
+# Modified by: https://github.com/guru1993/phishing.git
 
 trap 'printf "\n";stop' 2
 
